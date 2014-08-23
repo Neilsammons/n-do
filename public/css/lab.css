@@ -1,0 +1,99 @@
+html, body, div, section, article, aside, header, 
+hgroup, footer, nav, h1, h2, p, blockquote, span{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align:baseline;
+	font: inherit;
+}
+
+/*Basic layout styles*/
+body{
+	width: 1280px;
+	margin: 0 auto;
+}
+header{
+	height: 165px;
+}
+article{
+	float: left;
+	width: 850px;
+	padding-left: 50px;
+}
+aside{
+	float: right;
+	width: 280px;
+	padding-right: 50px;
+}
+#pageFooter{
+	clear:both;
+	overflow:hidden;
+	height: 150px;
+}
+/*Content region styles*/
+------------------------------------------
+/*header styles*/
+header{
+	background: rgb(100, 98, 102);
+	padding-top: 1px;
+	overflow: hidden;
+	margin-bottom: 1.5em;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*this selector targets every link element throughout the site*/
+{
+	text-decoration: none;
+	color: rgb(219, 126, 64);
+	border-bottom: 1px dotted rgb(219,126,64);
+}
+/*this selector targets the copyright paragraph in the footer*/
+{
+	width: 300px;
+}
+/*this selector targets the dates inside the upcoming dates list on the index.html page*/
+{
+	font-weight: bold;
+}
+/*this selector changes the background of every 2nd list item in the unordered list 
+that forms the archived gallery menu in the sidebar*/
+{
+	background: rgb(237,228,214);
+}
+/*this selector changes the color of the main navigation link as users hover over them*/
+{
+	color: rgb(219,126,64)
+}
+/*this selector targets the search input text box in the footer, make sure it will ONLY target 
+the search input from element*/
+{
+	width: 250px;
+}
+/*this selector will add the usage text you see here at the end of the photos gallery*/
+{
+	content:"All photos by James Williamson | used by permission";
+	font-style: italic;
+	text-align: right;
+	margin: 0;
+	padding: 0;
+	display: block;
+
+}

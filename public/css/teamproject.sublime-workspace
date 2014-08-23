@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"profil",
+				"profile-container"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fo",
+				"footer-section"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border",
+				"border-top-color"
+			],
+			[
+				"border-rigt",
+				"border-right-width"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"ARTIC",
+				"article	Tag"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"ackground",
+				"background-color"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/neil/Sites/Projects/team project/public/css/main.css",
+			"settings":
+			{
+				"buffer_size": 1856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/neil/Sites/Projects/team project/public/images/classy_fabric.png",
+			"settings":
+			{
+				"buffer_size": 22140,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitq",
+				"Git: Quick Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"git comit",
+				"Git: Quick Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/neil/Sites/Projects/team project/teamproject.html",
+		"/Users/neil/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/neil/Sites/Projects/row project/neil.html",
+		"/Users/neil/Sites/Projects/row project/public/css/main.css",
+		"/Users/neil/Sites/Projects/row project/public/neil.html",
+		"/Users/neil/Sites/Projects/row project/practice.html",
+		"/Users/neil/Sites/Projects/row project/project.html",
+		"/Users/neil/Sites/Projects/Tech5/index.html",
+		"/Users/neil/Sites/Projects/red_dragon/index.html",
+		"/Users/neil/Sites/Sublime-Projects/Tech5",
+		"/Users/neil/Sites/Projects/red_dragon/public/css/main.css",
+		"/Users/neil/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/neil/Sites/Projects/bonanaza/public/css/rentdaddy.css",
+		"/Users/neil/Sites/Projects/bonanaza/rentdaddy.css",
+		"/Users/neil/Sites/Projects/bonanaza/pagelayout.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/css/main.css",
+		"/Users/neil/Sites/Projects/bonanaza/reference.html",
+		"/Users/neil/Sites/Projects/bonanaza/practoice.html",
+		"/Users/neil/Sites/Projects/bonanaza/container.html",
+		"/Users/neil/Sites/Projects/bonanaza/New Website with CSS.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/container.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/contact.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/galleries.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/index.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/philadelphia.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/css/lab.css",
+		"/Users/neil/Sites/Projects/bonanaza/anything.html",
+		"/Users/neil/Sites/Projects/bonanaza/index.html",
+		"/Users/neil/Sites/Projects/bonanaza/template.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/css/forms.css",
+		"/Users/neil/Sites/Projects/bonanaza/public/reference.html",
+		"/Users/neil/Sites/Projects/bonanaza/public/css/bootstrap.css",
+		"/Users/neil/Sites/Projects/bonanaza/public/fonts/glyphicons-halflings-regular.eot",
+		"/Users/neil/Sites/page.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"300",
+			"800",
+			"300",
+			"350",
+			"400",
+			"700",
+			"800",
+			"200",
+			"300",
+			"500",
+			"400",
+			"500",
+			"300",
+			"200",
+			" \n",
+			"50",
+			"25",
+			"50",
+			">\n",
+			"50",
+			"p",
+			"3pt",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/neil/Sites/Projects/team project/public/css/main.css",
+					"settings":
+					{
+						"buffer_size": 1856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1177,
+								1177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 705.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/neil/Sites/Projects/team project/public/images/classy_fabric.png",
+					"settings":
+					{
+						"buffer_size": 22140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 179.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 82.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"public/css/bootstrap.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/neil/Sites/Sublime-Projects/html5.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}

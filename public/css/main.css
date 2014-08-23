@@ -1,0 +1,270 @@
+/*start of body styling*/
+body {
+	padding-top: 5em;
+	background: #E8F8FF;
+}
+
+h1,h2,h3,h4,h5{
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+}
+
+
+h1{
+	font-size: 10em;
+}
+
+h2{
+	font-size: 5em;
+}
+
+h3{
+	font-size: 4em;
+}
+
+li{
+
+}
+
+p{
+	font-family: 'Amatic SC', cursive;
+	font-size: 1.8em;
+}
+
+img{
+
+}
+
+ul{
+	font-family: 'Amatic SC', cursive;
+}
+
+hr{
+	width: 50%;
+	color: #FFD700;
+	background: #FFD700;
+	height: 5px;
+}
+
+blockquote{
+	font-size: 30px;
+	font-family: 'Amatic SC', cursive;
+}
+
+a{
+	color: #000;
+}
+
+a:hover{
+	color: #fff;
+}
+
+span{
+	font-family: 'Amatic SC', cursive;
+	font-size: 1.8em;
+}
+
+.btn-primary{
+	color: #000;
+	border: none;
+	background: #FFD700;
+	margin: 10px 0;
+	float: right;
+	font-family: 'Amatic SC', cursive;
+	font-size: 1.8em;
+	box-shadow: 1px 1px 1px 1px #000;
+}
+
+.btn-primary:hover{
+	background: #B49906;
+}
+
+/*end of body styling*/
+
+/*start of navbar styling*/
+
+.navbar-header p{
+	color: #FFD700;
+	margin: 0;
+	font-size: 19px;		
+	letter-spacing: 1px;
+	padding-left: 1px;
+}
+
+.navbar-inverse {
+	background: #000;
+	border: none;
+	padding: 15px;
+}
+
+
+.navbar-inverse .navbar-brand {
+	color: #E8F8FF;
+	font-size: 35px;
+	font-family: 'Poiret One', cursive;
+}
+
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+	color: #F0E5E5;
+	background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+	color: #fff;
+	padding: 16px;
+	background: none;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover{
+	color: rgb(116, 43, 43);;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+	color: rgb(116, 43, 43);
+	background-color: transparent;
+}
+
+
+
+.navbar-right ul{
+	list-style: none;
+	margin: 15px 0;
+}
+
+.navbar-right i{
+	font-size: 30px;
+	color: #E8F8FF;
+	padding: 0 15px;
+}
+
+
+.fa-facebook:hover{
+	color: #3b5998;
+}
+.fa-google-plus:hover{
+	color: #d34836;
+}
+.fa-reddit:hover{
+	color: #ff1a00;
+}
+.fa-soundcloud:hover{
+	color: #f7790f;
+}
+.fa-yahoo:hover{
+	color: #7B0099;
+}
+.fa-youtube:hover{
+	color: #cd201f;
+}
+
+
+.main-message {
+	padding: 18em 0;
+}
+
+.main-message h1{
+	margin: 50px 0;
+	text-shadow: 2px 2px #FFD700;
+}
+
+.main-message ul{
+	margin-bottom: 1.5em;
+	font-size: 3em;
+	list-style: none;
+	padding: 0;
+	text-align: center;
+}
+
+.main-message li{
+	display: inline-block;
+	padding: 0 10px;
+	margin: 0 5px;
+}
+
+.designer{
+	color: #9975b9;
+	border-radius: 4px;
+}
+
+.entrepeneur{
+	color: #4DE94D;
+	border-radius: 4px;
+}
+
+.hip-hop{
+	color: #F53535;
+	border-radius: 4px;
+}
+
+
+
+.quote-section{
+	background: #fff;
+	padding: 18em 0;
+
+}
+
+.quote-section h2{
+	padding-bottom: 10px;
+}
+
+
+
+.designer-story{
+	padding: 18em 0;
+}
+
+.designer-story hr{
+	width: 50%;
+	color: #9975b9;
+	background: #9975b9;
+	height: 5px;
+
+}
+
+.designer-story h2{
+	text-shadow: 2px 2px #9975b9;
+}
+
+
+
+.entrepeneur-story{
+	padding: 12em 0;
+}
+
+.entrepeneur-story h2{
+	text-shadow: 2px 2px #4DE94D;
+}
+
+.entrepeneur-story hr{
+	width: 50%;
+	color: #4DE94D;
+	background: #4DE94D;
+	height: 5px;
+
+}
+
+.hiphop-story {
+	padding: 18em 0;
+}
+
+.hiphop-story h2{
+	text-shadow: 2px 2px #F53535;
+}
+
+
+.hiphop-story hr{
+	width: 50%;
+	color: #F53535;
+	background: #F53535;
+	height: 5px;
+}
+
+
+
+
+
+
+
+
